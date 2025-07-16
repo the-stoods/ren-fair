@@ -126,4 +126,12 @@ p {
         font-size: 25px;
         font-family: arial;
     }
+
+    body {
+        background-size: cover;
+        background-position: center top;
+        background-attachment: scroll;
+        padding: 20px;
+        height: auto;
+    }
 }
